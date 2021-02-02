@@ -1,0 +1,22 @@
+{
+    "00001" : {
+        "name" : "Apple",
+        "cost" :    "12",
+        "description" : "green, red, yellow",
+        "image" : "img/facebook_70.png"
+    },
+
+    "00002" : {
+        "name" : "Banana",
+        "cost" :    "10",
+        "description" : "green, red, yellow",
+        "image" : "img/facebook_70.png"
+    },
+
+    "00003" : {
+        "name" : "tomati",
+        "cost" :    "16",
+        "description" : "green, red, yellow",
+        "image" : "img/facebook_70.png"
+    }
+}
